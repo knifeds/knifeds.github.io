@@ -8,19 +8,23 @@ KnifeDS provides an end-to-end solution for digital signage at all scales. It's 
 
 ### Frontend
 
-* kdsweb
+* **kdsconsole**: Admin console for end users and system admins
 
 ### Backend
 
-* kdscloud
+* **kdscloud**: Backend micro-services
+
+### PaaS
+
+* **kdspaas**: Scripts & yaml files to setup the KnifeDS PaaS.
 
 ### Client
 
-* kdsclient
+* **kdsclient**: Android native client to be installed on the display device.
 
 
 
 ----
 
-The KnifeDS team
+Created by: *The KnifeDS team*, 2019
 
